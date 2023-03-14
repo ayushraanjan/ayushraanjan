@@ -15,13 +15,13 @@
 </h1>
 </div>
 </div>
-I am a Student Developer from India.  Currently exploring different programming languages and tools, I'm always looking for new challenges to push my skills further. When I'm not coding, you can find me reading books on computer science, hiking in the great outdoors, or enjoying a good cup of coffee. Let's connect and build something awesome together!
+I am a Student Developer from India.  Currently exploring different programming languages and tools, I'm always looking for new challenges to push my skills further. When I'm not coding, you can find me reading books on computer science, writing for wiki, or enjoying a good cup of coffee. Let's connect and build something awesome together!
 
 - :seedling: Exploring Different technologies.
 
 - :zap: In my free time, I write for Wikipedia.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ayushraanjan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ayushraanjan)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ayushraanjan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ayushraanjan)
 
 
 
