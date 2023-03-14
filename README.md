@@ -19,7 +19,7 @@ I am a Student Developer from India.  Currently exploring different programming 
 
 - :seedling: Exploring Different technologies.
 
-- :zap: In my free time,I write for wikipedia.
+- :zap: In my free time, I write for Wikipedia.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ayushraanjan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ayushraanjan)
 
