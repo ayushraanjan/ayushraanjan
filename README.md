@@ -22,8 +22,7 @@ I am a Student Developer from India.  Currently exploring different programming 
 - :zap: In my free time, I write for Wikipedia.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ayushraanjan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ayushraanjan)
-<div id= "streak" align="center>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushraanjan)](https://git.io/streak-stats)
-                         </div id="streak">
+<div align="center>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushraanjan)](https://git.io/streak-stats) </div>
 
 
