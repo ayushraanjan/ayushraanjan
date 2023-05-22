@@ -15,7 +15,7 @@
 </h1>
 </div>
 </div>
-I am a Student Developer from India. Currently exploring different programming languages and tools, I'm always looking for new challenges to push my skills further. When I'm not coding, you can find me reading books on computer science, writing for wiki, or enjoying a good cup of coffee. Let's connect and build something awesome together!
+I am a Student Developer from India. Currently exploring different programming languages and tools, I'm always looking for new challenges to push my skills further. When I'm not coding, you can find me reading books on computer science, writing for wiki,  or enjoying a good cup of coffee. Let's connect and build something awesome together!
 
 - :seedling: Exploring Different technologies.
 
