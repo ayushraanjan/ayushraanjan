@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Ayush Ranjan, a passionate Computer Science student at Bakhtiyarpur College of Engineering. Currently in my first year, I'm excited to embark on a journey into the fascinating world of Artificial Intelligence and Machine Learning.
+👋 Hello, I'm Ayush Ranjan, a passionate Computer Science student. Currently in my first year, I'm excited to embark on a journey into the fascinating world of Artificial Intelligence and Machine Learning.
 Currently I am working on TongueCare!
 
 ## 🌐 Socials:
