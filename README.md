@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello, I'm Ayush Ranjan, a passionate Computer Science student. Currently in my first year, I'm excited to embark on a journey into the fascinating world of Artificial Intelligence and Machine Learning.
-Currently I am working on TongueCare!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushraanjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushraanjan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ayushraanjan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayushraanjan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ayushraanjan) 
