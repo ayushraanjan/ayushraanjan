@@ -1,3 +1,4 @@
+![Intro photo](https://github.com/ayushraanjan/ayushraanjan/blob/main/Hi%20I%20am%20Ayush.gif?raw=true)
 #### I will introduce myself by code
 ```py
 class AyushRanjan:
